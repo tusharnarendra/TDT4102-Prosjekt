@@ -1,0 +1,22 @@
+Rowing, easy, 35, 8, Mon Mar 3 17:30:42 2025, Rowing
+Martial Arts, max, 50, 0, Tue Mar 4 20:22:30 2025, Martial Arts
+Pilates, moderate, 40, 0, Wed Mar 5 16:25:02 2025, Pilates
+Running, easy, 50, 10, Thu Mar 6 11:50:05 2025, Running
+Cycling, easy, 45, 18, Mon Mar 10 09:12:22 2025, Nice ride
+Climbing, max, 75, 0, Tue Mar 11 18:05:10 2025, Challenging
+Pilates, moderate, 40, 0, Wed Mar 12 16:25:02 2025, Good flexibility work
+Running, max, 60, 12, Thu Mar 13 11:50:05 2025, Hard run
+Rowing, easy, 35, 8, Mon Mar 17 17:30:42 2025, Smooth workout
+Martial Arts, max, 50, 0, Tue Mar 18 20:22:30 2025, Intense
+Strength, moderate, 60, 0, Wed Mar 19 13:00:00 2025, Great session
+Walking, moderate, 30, 5, Mon Mar 24 08:20:45 2025, Felt refreshing
+Crossfit, max, 60, 0, Tue Mar 25 21:30:30 2025, Tough session
+Hiking, easy, 90, 12, Wed Mar 26 14:15:33 2025, Beautiful views
+Dance, moderate, 50, 0, Thu Mar 27 07:05:12 2025, Fun workout
+Dance, moderate, 50, 0, Sat Mar 29 07:05:12 2025, Fun workout
+Strength, moderate, 50, 0, Sun Mar 30 07:05:12 2025, Fun workout
+Running, easy, 120, 10, Mon Mar 31 20:08:02 2025, Felt pretty good
+Cycling, moderate, 40, 80, Tue Apr  1 18:23:12 2025, Good session
+Yoga, easy, 60, 0, Wed Apr  2 15:10:00 2025, Relaxing session
+Strength, max, 45, 0, Thu Apr  3 19:45:55 2025, Intense workout
+Running, easy, 50, 10, Tue Apr 29 11:19:37 2025, NICE
